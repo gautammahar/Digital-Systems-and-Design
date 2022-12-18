@@ -1,2 +1,2 @@
 # Digital-Systems-and-Design
-Learned as a part of CS210 course
+learned as a component of the CS210 course.
